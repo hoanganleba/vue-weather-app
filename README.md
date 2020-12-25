@@ -1,4 +1,4 @@
-# weather_app
+# Weather App made with Vuejs
 
 ## Project setup
 ```
